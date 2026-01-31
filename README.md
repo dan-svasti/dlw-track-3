@@ -9,4 +9,6 @@ It is also beneficial to have said videos look over a longer stretch of road ins
 
 The demo video is linked in the Google Drive folder: https://drive.google.com/drive/folders/1ThCdiNbArJeNVykRzA7_h2hDtkayiOh0?usp=drive_link
 
-The primary demo is provided as a Google Colab notebook. A standalone script (run_pipeline.py) is included for local execution; dependencies are listed in requirements.txt
+The primary demo is provided as a Google Colab notebook. A standalone script (run_pipeline.py) is included for local execution; dependencies are listed in requirements.txt.
+However, the locally runnable script sometimes performs differently compared to the ipynb notebook on the same video (e.g. being less sensitive to alerts), possibly due to different computing resources.
+It may be better to test out the notebook on Colab.
