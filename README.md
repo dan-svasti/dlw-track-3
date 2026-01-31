@@ -8,3 +8,5 @@ I recommend using longer videos larger than 80 MB as it gives the system ample t
 It is also beneficial to have said videos look over a longer stretch of road instead of a very small area, e.g. an ATM or a cashier's desk.
 
 The demo video is linked in the Google Drive folder: https://drive.google.com/drive/folders/1ThCdiNbArJeNVykRzA7_h2hDtkayiOh0?usp=drive_link
+
+The primary demo is provided as a Google Colab notebook. A standalone script (run_pipeline.py) is included for local execution; dependencies are listed in requirements.txt
