@@ -8,3 +8,5 @@ The repository has detailed PDF documentation and an MP4 demo video to see the d
 It is worth noting that the test videos were too large for GitHub, but the documentation has a link to a Kaggle dataset that contains plenty of CCTV data.
 I recommend using longer videos larger than 80 MB as it gives the system ample time to output multiple alerts.
 It is also beneficial to have said videos look over a longer stretch of road instead of a very small area, e.g. an ATM or a cashier's desk.
+
+The demo video is linked in the Google Drive folder: https://drive.google.com/drive/folders/1ThCdiNbArJeNVykRzA7_h2hDtkayiOh0?usp=drive_link
