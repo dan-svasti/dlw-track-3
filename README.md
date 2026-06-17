@@ -7,7 +7,7 @@ It is worth noting that the test videos were too large for GitHub, but the docum
 I recommend using longer videos larger than 80 MB as it gives the system ample time to output multiple alerts.
 It is also beneficial to have said videos look over a longer stretch of road instead of a very small area, e.g. an ATM or a cashier's desk.
 
-The demo video is linked in the Google Drive folder: https://drive.google.com/drive/folders/1ThCdiNbArJeNVykRzA7_h2hDtkayiOh0?usp=drive_link
+The demo video is linked in the Google Drive folder if you happen to be unable to access it via GitHub: https://drive.google.com/drive/folders/1ThCdiNbArJeNVykRzA7_h2hDtkayiOh0?usp=drive_link
 
 The primary demo is provided as a Google Colab notebook. A standalone script (run_pipeline.py) is included for local execution; dependencies are listed in requirements.txt.
 However, the locally runnable script sometimes performs differently compared to the ipynb notebook on the same video (e.g. being less sensitive to alerts), possibly due to different computing resources.
